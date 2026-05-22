@@ -99,21 +99,21 @@ Batch ($batch) ~1–2 minutes ✅
 
 ## 🧠 Challenges & Solutions
 
-- 🔴 Authentication Issues
-AADSTS500011 error due to incorrect resource URL
-✅ Fixed by correctly configuring OAuth scope
+### 🔴 Authentication Issues
+- AADSTS500011 error due to incorrect resource URL
+- ✅ Fixed by correctly configuring OAuth scope
 
-- 🔴 Invalid Field Names
-Payload rejected because of incorrect logical names
-✅ Solved using metadata API discovery
+### 🔴 Invalid Field Names
+- Payload rejected because of incorrect logical names
+- ✅ Solved using metadata API discovery
 
-- 🔴 Performance Bottleneck
-Slow execution due to one request per record
-✅ Implemented batch processing ($batch)
+### 🔴 Performance Bottleneck
+- Slow execution due to one request per record
+- ✅ Implemented batch processing ($batch)
 
-- 🔴 Payload Errors
-Dataverse rejects invalid fields silently
-✅ Solved via field validation and cleaning logic
+### 🔴 Payload Errors
+- Dataverse rejects invalid fields silently
+- ✅ Solved via field validation and cleaning logic
 
 ---
 
