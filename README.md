@@ -129,7 +129,10 @@ Dataverse rejects invalid fields silently
 }
 ```
 
----
+A sample dataset is provided in `sample_data.json` to demonstrate the expected input structure.
+
+This dataset is fully anonymized and intended for demonstration purposes only.
+
 
 ## 🔄 Upsert Request Example
 ```
