@@ -20,19 +20,8 @@ This project demonstrates the implementation of a robust data pipeline designed 
 ---
 
 ## 🏗️ Architecture
-```
-Source System / API
-↓
-Databricks (Ingestion & Processing)
-↓
-Delta Lake (Silver Layer)
-↓
-Data Transformation (PySpark)
-↓
-Dataverse API (OAuth 2.0)
-↓
-Target Table (Upsert via Alternate Key)
-```
+
+architecture.png
 ---
 
 ## ⚙️ Technologies Used
