@@ -21,7 +21,7 @@ This project demonstrates the implementation of a robust data pipeline designed 
 
 ## 🏗️ Architecture
 
-architecture.png
+![Data Pipeline Architecture](architecture.png)
 ---
 
 ## ⚙️ Technologies Used
