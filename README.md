@@ -137,7 +137,7 @@ PATCH /api/data/v9.2/employees(employee_id='1001')
 ```
 ```
 {
-  "employee_name": "John Doe",
+  "employee_name": "Fulano de Tal",
   "job_title": "Operator"
 }
 ```
