@@ -79,10 +79,10 @@ GET /api/data/v9.2/EntityDefinitions(...)
 - Reduces API overhead
 - Improves performance significantly
 
-Approach
-Execution Time
-Row-by-row ~15 minutes
-Batch ($batch) ~1–2 minutes ✅
+|  Approach  |  Execution Time  |
+|------------|------------|
+|  Row-by-row  | ~15 minutes  |
+|  Batch ($batch)  | ~1–2 minutes ✅  |
 
 ---
 
